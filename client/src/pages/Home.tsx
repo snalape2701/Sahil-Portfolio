@@ -401,7 +401,7 @@ export default function Home() {
               </button>
               <a
                 href="/manus-storage/Sahil-Talape-Cloud-DevOps-Engineer-Resume_b929201c.pdf"
-                download="Sahil-Talape-Cloud-DevOps-Engineer-Resume.pdf"
+                download="file:///N:/Resume/Sahil%20Resume.pdf"
                 onClick={() => showSystemNotice("Resume download initiated", "Sahil’s current résumé is downloading now. Check your downloads folder when it finishes.", "success")}
                 className="resume-download-button route-link inline-flex items-center gap-2 rounded-lg border border-[#7ab8ec]/45 bg-[#102b40]/80 px-5 py-3.5 text-sm font-bold text-[#d8ecfd] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#49a6ff]"
               >
