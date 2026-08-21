@@ -1,0 +1,27 @@
+- [x] Audit existing project proof assets and available links.
+- [x] Add clear case-study inspection routes and proof actions without fabricating evidence.
+- [x] Reorganize credentials to emphasize Cloud and DevOps preparation.
+- [x] Add complete social-sharing metadata and a branded preview image.
+- [x] Verify desktop/mobile presentation and run type checks.
+- [ ] Save a checkpoint for the completed enhancement pass.
+- [x] Download and store Sahil’s public profile portrait as a deployment-safe static asset.
+- [x] Add a recruiter-facing portrait section with responsive framing and clear professional context.
+- [x] Verify the updated desktop/mobile layouts and run a final type check.
+- [ ] Save a checkpoint for the portrait-section enhancement.
+- [x] Audit current portfolio interaction feedback and available notification components.
+- [x] Implement branded in-site notifications for meaningful user actions.
+- [x] Apply the approved cohesive visual-system refinements from the design review.
+- [x] Verify notification behavior, responsive presentation, and the production build.
+- [ ] Save a checkpoint for the custom notification and visual-system refinement pass.
+- [x] Inspect the existing custom-notification motion configuration.
+- [x] Add smooth slide-in and fade-out animation with reduced-motion support.
+- [x] Verify the notification motion configuration, desktop presentation, and production build.
+- [ ] Save a checkpoint for the notification motion enhancement.
+- [x] Inspect the current navigation wordmark and hero relationship.
+- [x] Make Sahil Talape’s name more prominent in the hero navigation.
+- [x] Verify responsive navigation and run a final type check.
+- [ ] Save a checkpoint for the hero-navigation nameplate update.
+- [x] Audit the current section links and responsive navigation behavior.
+- [x] Build a complete desktop navigation bar while retaining the mobile menu.
+- [x] Verify desktop and mobile navigation layout, active states, and production build.
+- [ ] Save a checkpoint for the complete navigation-bar build.

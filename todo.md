@@ -1,0 +1,23 @@
+# Portfolio Enhancement Tasks
+
+- [x] Convert Sahil’s supplied resume into a web-hosted PDF asset.
+- [x] Add a prominent resume download action to the hero section.
+- [x] Implement a validated visitor contact form with clear success and fallback handling.
+- [x] Add refined project-card hover states and scroll-triggered reveal effects.
+- [x] Verify the updated experience on desktop and mobile, then save a delivery checkpoint.
+- [ ] Add credible project-proof actions and a clearer case-study inspection structure.
+- [ ] Reorganize credentials to foreground Cloud/DevOps learning and demote supporting items.
+- [ ] Add social-sharing metadata and a branded social preview asset.
+- [x] Add Sahil’s supplied profile photograph to the Profile section and verify the responsive presentation.
+- [x] Confirm Gmail delivery settings and ensure contact-form submissions include complete sender details.
+- [x] Replace the public resume download with Sahil’s newly supplied PDF and verify browser download behavior.
+- [x] Ensure the Direct email and Start a conversation actions open a visitor’s mail app addressed to Sahil.
+- [x] Ensure every Let’s connect action opens the prepared direct email to Sahil.
+- [x] Repair the reported contact-button email-launch behavior and add a clear fallback path.
+- [x] Add a branded custom notification experience for meaningful portfolio actions.
+- [x] Create a high-resolution natural profile portrait and remove the thematic photo treatment.
+- [x] Add a clear Cloud/DevOps logo to the circular header brand mark.
+- [x] Match the browser favicon to the Cloud/DevOps header symbol and add an accessible logo pulse.
+- [x] Add a polished hover interaction and download-success notification to the resume button.
+- [x] Remove numeric prefixes from the header navigation labels.
+- [x] Correct the downloaded resume filename and embedded title to Sahil Talape — Cloud/DevOps Engineer.
